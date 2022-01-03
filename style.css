@@ -77,7 +77,7 @@ ul li a:hover{
     height: 40px;
     background: transparent;
     border: 1px solid #ff7200;
-    margin-top: 30px;
+    margin-top: 13px;
     color: #fff;
     border-right: none;
     font-size: 16px;
@@ -88,7 +88,7 @@ ul li a:hover{
 }
 
 .btn{
-    width: 100%;
+    width: 100px;
     height: 40px;
     background: #ff7200;
     border: 2px solid #ff7200;
@@ -99,3 +99,10 @@ ul li a:hover{
     border-bottom-right-radius: 5px;
 }
 
+btn:focus{
+    outline: none;
+}
+
+.srch:focus{
+    outline: none;
+}
