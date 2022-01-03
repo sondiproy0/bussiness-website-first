@@ -86,3 +86,16 @@ ul li a:hover{
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
 }
+
+.btn{
+    width: 100%;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
